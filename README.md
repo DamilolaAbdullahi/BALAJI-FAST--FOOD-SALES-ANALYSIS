@@ -53,7 +53,7 @@ As a result, this analysis provides insights addressing the following questions.
 The primary objective of this analysis is to determine the total revenue generated at Balaji fast-food sales using the transaction amount as it serves as a proxy for total revenue, as it represents the sum of all sales values recorded in the dataset.
 To achieve this, a pivot table was created. 
 
-![](https://github.com/DamilolaAbdullahi/BALAJI-FAST--FOOD-SALES-ANALYSIS/blob/main/kkkkkk.jpg)
+![](https://github.com/DamilolaAbdullahi/BALAJI-FAST--FOOD-SALES-ANALYSIS/blob/main/Screenshot%202025-03-26%20154922%20Total%20revenue.png)
 
    From the above analysis 
    The total revenue is 275,230.
